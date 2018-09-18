@@ -6,19 +6,18 @@
 
 
 # Beginning Object-Oriented Programming with JavaScript
-This course shows how  to exploit the real world with complex raw data using TensorFlow 1.x. Throughout the book, you’ll learn how to implement deep learning algorithms for machine learning systems and integrate them into your product offerings, including search, image recognition, and language processing. Additionally, you’ll learn how to analyze and improve the performance of deep learning models. This can be done by comparing algorithms against benchmarks, along with machine intelligence, to learn from the information and determine ideal behaviors within a specific context.After finishing the book, you will be familiar with machine learning techniques, in particular the use of TensorFlow for deep learning, and will be ready to apply your knowledge to research or commercial projects.
+This course begins with a subtle refresher on objects. It teaches you how easy it is to define objects with the new ECMAScript classes. From there, we'll fly you through some essential OOP principles, forming a base for you to get hands-on with encapsulation. You’ll get to work with the diffrent methods of inheritance. From there, we’ll move on to some advanced patterns for object creation, and you’ll get a strong idea of how to use interesting patterns to present data to users and to bind data. You’ll manage dynamic typing using various data types and get familiar with duck typing and polymorphism. You’ll explore various presentations such as MVC and MVP, along with implementing data binding. By the end of this course, you’ll discover whether JavaScript is asynchronous and learn to write asynchronous code using callbacks and events.
 
 
 ## What you will learn
-* Learn about machine learning landscapes along with the historical development and progress of deep learning
-* Learn about deep machine intelligence and GPU computing with the latest TensorFlow 1.x
-* Access public datasets and utilize them using TensorFlow to load, process, and transform data
-* Use TensorFlow on real-world datasets, including images, text, and more
-* Learn how to evaluate the performance of your deep learning models
-* Using deep learning for scalable object detection and mobile computing
-* Train machines quickly to learn from data by exploring reinforcement learning techniques
-* Explore active areas of deep learning research and applications
-
+* Master JavaScript's OOP features, including the ones provided by ECMAScript 2015 specification
+* Learn popular Object-Oriented Programming (OOP) principles and design patterns to build robust apps
+* Learn inheritance and create mixins
+* Implement object-oriented concepts in a wide range of frontend architectures
+* Explore duck typing, an enhanced technique that allows us to define contracts between 
+objects interacting with each other
+* Manage asynchronous code in JavaScript
+* Complete a variety of hands-on activities to help embed your newly acquired skills
 
 ### Hardware requirements
 For an optimal student experience, we recommend the following hardware configuration:
